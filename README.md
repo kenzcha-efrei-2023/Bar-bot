@@ -6,7 +6,7 @@ Project for chatbot and recommendation systems course in 2022/2023
 
 The library used for text to speach is mac says, which is basically only functionnal on macOS. Simply replace it by another library for your distribution in `alerte.py` (lines 4, and 9)
  
-How to install and launch
+## How to install and launch
 
 #### 1st step : install client :
 
